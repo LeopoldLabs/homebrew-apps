@@ -1,5 +1,3 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://rubydoc.brew.sh/Formula
 class Rustviz < Formula
   desc "Generate GraphViz Dot and C4 diagrams for your Rust projects"
   homepage "https://github.com/LeopoldLabs/rustviz"
