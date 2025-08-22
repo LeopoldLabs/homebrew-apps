@@ -1,8 +1,8 @@
 class Rustviz < Formula
   desc "Generate GraphViz Dot and C4 diagrams for your Rust projects"
   homepage "https://github.com/LeopoldLabs/rustviz"
-  url "https://github.com/LeopoldLabs/rustviz/releases/download/v0.1.0/rustviz"
-  sha256 "236a0fb77ce6b84698087ef6720034d8f2f16dfbcf3d25d3cc0b7ebb51693049"
+  url "https://github.com/LeopoldLabs/rustviz/releases/download/v0.1.1/rustviz"
+  sha256 "124a5689452c311d07e2a411f22b7533c1fb384f82376da95ef085cab6b33cc9"
   license ""
 
   def install
